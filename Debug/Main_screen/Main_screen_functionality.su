@@ -1,0 +1,11 @@
+../Main_screen/Main_screen_functionality.c:1005:6:auto_keylock	16	static
+../Main_screen/Main_screen_functionality.c:1048:6:Disc_failure_condition	8	static
+../Main_screen/Main_screen_functionality.c:1088:6:Calibration_error_condition	8	static
+../Main_screen/Main_screen_functionality.c:1117:6:pressure_display	32	static
+../Main_screen/Main_screen_functionality.c:1493:6:MFB_Reset_data	0	static
+../Main_screen/Main_screen_functionality.c:544:9:key_main_screen	16	static
+../Main_screen/Main_screen_functionality.c:719:9:key_main_screen_VTBI	24	static
+../Main_screen/Main_screen_functionality.c:838:9:key_fun_doserate_mode	16	static
+../Main_screen/Main_screen_functionality.c:1156:9:Key_functionality	24	static
+../Main_screen/Main_screen_functionality.c:1502:6:Common_Warning	24	static
+../Main_screen/Main_screen_functionality.c:187:9:Home_screen_functionality	32	static

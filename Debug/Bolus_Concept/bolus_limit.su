@@ -1,0 +1,5 @@
+../Bolus_Concept/bolus_limit.c:38:6:bolus_limit_layout	16	static
+../Bolus_Concept/bolus_limit.c:239:6:bolus_limit_Frame	24	static
+../Bolus_Concept/bolus_limit.c:267:6:bolus_limit_cursor	80	static
+../Bolus_Concept/bolus_limit.c:329:6:bolus_limit_Opt_Frame	72	static
+../Bolus_Concept/bolus_limit.c:61:6:bolus_limit	48	static

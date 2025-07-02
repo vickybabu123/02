@@ -1,0 +1,11 @@
+../source/Flowrate_Screen.c:77:6:FR_split_frame	32	static
+../source/Flowrate_Screen.c:99:6:Digit_Spiliting	48	static
+../source/Flowrate_Screen.c:161:6:flowrate_option_frame	64	static
+../source/Flowrate_Screen.c:237:6:flowrate_option_scroll	64	static
+../source/Flowrate_Screen.c:723:6:FR_split_frame_DD	32	static
+../source/Flowrate_Screen.c:747:6:Digit_Spiliting_DD	56	static
+../source/Flowrate_Screen.c:804:6:flowrate_option_frame_DD	72	static
+../source/Flowrate_Screen.c:885:6:flowrate_option_scroll_DD	64	static
+../source/Flowrate_Screen.c:1309:6:Left_Right_Indi	24	static
+../source/Flowrate_Screen.c:295:10:Flow_rate_screen	80	static
+../source/Flowrate_Screen.c:945:10:Flow_rate_screen_DD	72	static

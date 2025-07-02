@@ -1,0 +1,3 @@
+../External_RTC/EXTERNAL.RTC.c:112:10:RTC_datawrite	64	static
+../External_RTC/EXTERNAL.RTC.c:202:10:RTC_dataread	40	static
+../External_RTC/EXTERNAL.RTC.c:317:6:Enable_TrickleCharge	8	static

@@ -1,0 +1,5 @@
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/I2C/Driver_I2C.c:22:6:i2c_Init	8	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/I2C/Driver_I2C.c:67:6:i2c_start	0	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/I2C/Driver_I2C.c:86:6:i2c_Stop	0	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/I2C/Driver_I2C.c:104:10:EEPROM_datawrite	64	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/I2C/Driver_I2C.c:220:10:EEPROM_dataread	40	static

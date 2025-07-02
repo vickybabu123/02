@@ -1,0 +1,13 @@
+../Used_hrs/Used_hrs.c:71:6:machine_on_used_hrs	0	static
+../Used_hrs/Used_hrs.c:97:6:battery_used_hrs	0	static
+../Used_hrs/Used_hrs.c:120:6:run_stop_used_hrs	0	static
+../Used_hrs/Used_hrs.c:137:6:usedhrs_status	8	static
+../Used_hrs/Used_hrs.c:283:6:Packing_reset_frame	24	static
+../Used_hrs/Used_hrs.c:300:6:Complete_reset_frame	24	static
+../Used_hrs/Used_hrs.c:317:6:Reset_loading	32	static
+../Used_hrs/Used_hrs.c:334:6:EEPROM_usedhrs_write	8	static
+../Used_hrs/Used_hrs.c:376:6:EEPROM_usedhrs_read	8	static
+../Used_hrs/Used_hrs.c:495:6:reset_frame	24	static
+../Used_hrs/Used_hrs.c:525:6:FR_and_Elapsed_data	0	static
+../Used_hrs/Used_hrs.c:420:6:reset_fun	16	static
+../Used_hrs/Used_hrs.c:537:6:VTBI_clear_data	0	static

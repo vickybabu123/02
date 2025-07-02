@@ -1,0 +1,3 @@
+../Brand/Frame_Brand_List.c:71:6:Brand_List_layout	16	static
+../Brand/Frame_Brand_List.c:96:7:Brand_List_option	64	static
+../Brand/Frame_Brand_List.c:145:6:Brand_list_option_scroll	64	static

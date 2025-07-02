@@ -1,0 +1,5 @@
+../source/Dose_mode_fun.c:53:9:Drug_fun	40	static
+../source/Dose_mode_fun.c:243:6:Dosage_cursor	40	static
+../source/Dose_mode_fun.c:283:6:Dosage_Frame	24	static
+../source/Dose_mode_fun.c:311:6:Dosage_opt_Frame	56	static
+../source/Dose_mode_fun.c:70:9:Dosage_screen	48	static

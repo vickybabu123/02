@@ -1,0 +1,12 @@
+../source/rtc_driver.c:153:6:RTC_init	0	static
+../source/rtc_driver.c:168:6:RTC_Enable	0	static
+../source/rtc_driver.c:209:9:Check_Datetime_Format	24	static
+../source/rtc_driver.c:248:10:Convert_Datetime_To_Seconds	40	static
+../source/rtc_driver.c:188:6:set_date_time	8	static
+../source/rtc_driver.c:300:10:get_rtc_timer_count	0	static
+../source/rtc_driver.c:333:6:ConvertSecondsToDatetime	32	static
+../source/rtc_driver.c:283:6:get_date_time	8	static
+../source/rtc_driver.c:76:6:RTC_IRQHandler	8	static
+../source/rtc_driver.c:411:6:RTC_INIT_time	8	static
+../source/rtc_driver.c:447:6:RTC_date_time_update	8	static
+../source/rtc_driver.c:461:6:time_screen_saver	104	static

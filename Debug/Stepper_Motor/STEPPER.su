@@ -1,0 +1,5 @@
+../Stepper_Motor/STEPPER.c:16:6:DRV8428_Init	0	static
+../Stepper_Motor/STEPPER.c:44:6:DRV8428_ENABLE	0	static
+../Stepper_Motor/STEPPER.c:57:6:DRV8428_DISABLE	0	static
+../Stepper_Motor/STEPPER.c:72:6:stepper_Forward	0	static
+../Stepper_Motor/STEPPER.c:86:6:stepper_Reverse	0	static

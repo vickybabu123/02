@@ -1,0 +1,8 @@
+../VTBI/Target_fun.c:391:6:Target_mode_frame	24	static
+../VTBI/Target_fun.c:422:6:Target_mode_opt_Frame	80	static
+../VTBI/Target_fun.c:484:6:Target_mode_cursor	88	static
+../VTBI/Target_fun.c:598:10:flowrate_cal	8	static
+../VTBI/Target_fun.c:618:10:time_cal	24	static
+../VTBI/Target_fun.c:643:10:volume_cal	8	static
+../VTBI/Target_fun.c:551:9:VTBI_check	24	static
+../VTBI/Target_fun.c:59:9:Target_mode_setting	80	static

@@ -1,0 +1,7 @@
+../source/SYR_length_frame.c:40:6:frame_syr_len_and_plunger_adc_main	24	static
+../source/SYR_length_frame.c:79:6:frame_syringe_size_glow	88	static
+../source/SYR_length_frame.c:143:6:swap_sysize_glow	80	static
+../source/SYR_length_frame.c:215:6:syringe_length_and_collar_main_screen	40	static
+../source/SYR_length_frame.c:309:6:plunger_adc_screen	24	static
+../source/SYR_length_frame.c:359:6:warning_screen_ADC	24	static
+../source/SYR_length_frame.c:398:6:warning_calibrated_screen	24	static

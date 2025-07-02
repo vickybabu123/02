@@ -1,0 +1,4 @@
+../source/Rec_drug_list.c:252:9:recently_used_fun	8	static
+../source/Rec_drug_list.c:44:9:recent_drug_fun	64	static
+../source/Rec_drug_list.c:316:6:recent_eeprom_write	0	static
+../source/Rec_drug_list.c:335:6:recent_eeprom_read	24	static

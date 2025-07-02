@@ -1,0 +1,4 @@
+../Bolus_Concept/Bolus_Calculate..c:63:6:auto_bolus_stop	16	static
+../Bolus_Concept/Bolus_Calculate..c:80:6:bolus	8	static
+../Bolus_Concept/Bolus_Calculate..c:132:6:bolus_to_normal_run	8	static
+../Bolus_Concept/Bolus_Calculate..c:101:6:bolus_mode_stop	8	static

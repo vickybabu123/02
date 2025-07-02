@@ -1,0 +1,12 @@
+../source/Pressure_calib.c:109:10:Pressure_ADC	8	static
+../source/Pressure_calib.c:595:6:frame_Pressure_calib	32	static
+../source/Pressure_calib.c:660:6:warning_screen_0PSI	24	static
+../source/Pressure_calib.c:695:6:warning_screen_20PSI	24	static
+../source/Pressure_calib.c:732:6:INFO_Screen_0PSI	24	static
+../source/Pressure_calib.c:230:6:Zero_psi_calibration	32	static
+../source/Pressure_calib.c:778:6:INFO_Screen_20PSI	24	static
+../source/Pressure_calib.c:797:6:Running_symbol	104	static
+../source/Pressure_calib.c:840:10:X_pos_align	0	static
+../source/Pressure_calib.c:362:6:Twenty_PSI_Calibration	64	static
+../source/Pressure_calib.c:141:6:Pressure_calib_setting	40	static
+../source/Pressure_calib.c:872:6:Pressure_EEPROM_read	24	static

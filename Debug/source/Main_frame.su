@@ -1,0 +1,6 @@
+../source/Main_frame.c:340:6:FR_spliting	40	static
+../source/Main_frame.c:381:6:FR_spliting_DD	40	static
+../source/Main_frame.c:412:6:FR_Lines	16	static
+../source/Main_frame.c:439:6:scroll_bar	32	static
+../source/Main_frame.c:467:6:dose_rate_para	64	static
+../source/Main_frame.c:64:6:main_screen_frame	72	static

@@ -1,0 +1,12 @@
+../source/Device_main_scrn.c:313:6:device_sett_frame	24	static
+../source/Device_main_scrn.c:337:6:device_sett_Opt_Frame	72	static
+../source/Device_main_scrn.c:392:6:device_sett_cursor	72	static
+../source/Device_main_scrn.c:444:6:device_subsetting	96	static
+../source/Device_main_scrn.c:514:6:device_info_frame	32	static
+../source/Device_main_scrn.c:534:6:device_info_Opt_Frame	64	static
+../source/Device_main_scrn.c:583:6:about_fun	32	static
+../source/Device_main_scrn.c:661:6:infusion_modes_Opt_Frame	24	static
+../source/Device_main_scrn.c:685:6:infusion_mode_sett_Opt_Frame	56	static
+../source/Device_main_scrn.c:836:6:infusion_mode_sett_cursor	56	static
+../source/Device_main_scrn.c:730:6:infusion_sett_Screen	40	static
+../source/Device_main_scrn.c:99:9:device_sett_Screen	56	static

@@ -1,0 +1,6 @@
+../source/RTC.c:267:6:option_footer_frame	16	static
+../source/RTC.c:280:6:RTC_frame	24	static
+../source/RTC.c:303:6:RTC_Opt_Frame	64	static
+../source/RTC.c:390:6:RTC_cursor	80	static
+../source/RTC.c:478:6:format_subsetting	56	static
+../source/RTC.c:73:6:RTC_screen	48	static

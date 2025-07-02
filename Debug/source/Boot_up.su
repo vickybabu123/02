@@ -1,0 +1,7 @@
+../source/Boot_up.c:118:6:Boot_up	8	static
+../source/Boot_up.c:156:6:progress_bar	56	static
+../source/Boot_up.c:184:6:shutting_down	24	static
+../source/Boot_up.c:346:6:EEPROM_default_write	32	static
+../source/Boot_up.c:490:6:EEPROM_value_read	32	static
+../source/Boot_up.c:206:6:self_test_process	24	static
+../source/Boot_up.c:748:6:Complete_Reset	8	static

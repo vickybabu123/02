@@ -1,0 +1,10 @@
+../Menu_Setting/sys_sett_menu.c:176:6:sys_sett_frame	24	static
+../Menu_Setting/sys_sett_menu.c:206:6:sys_sett_Opt_Frame	48	static
+../Menu_Setting/sys_sett_menu.c:240:6:sys_sett_cursor	40	static
+../Menu_Setting/sys_sett_menu.c:278:6:sys_sett_fun	24	static
+../Menu_Setting/sys_sett_menu.c:57:9:sys_sett_Screen	40	static
+../Menu_Setting/sys_sett_menu.c:292:6:calib_sett_frame	24	static
+../Menu_Setting/sys_sett_menu.c:322:6:calib_sett_Opt_Frame	48	static
+../Menu_Setting/sys_sett_menu.c:359:6:calib_sett_cursor	56	static
+../Menu_Setting/sys_sett_menu.c:396:6:calib_sett_fun	24	static
+../Menu_Setting/sys_sett_menu.c:409:6:calib_setting	40	static

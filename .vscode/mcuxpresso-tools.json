@@ -1,0 +1,15 @@
+{
+  "version": "25.3",
+  "toolchainPath": "C:/Users/Admin/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "path": "c:\\Users\\Admin\\Documents\\Zephyr\\mcux_sdk_main",
+    "version": "2.16.000",
+    "boardId": "lpcxpresso55s16",
+    "deviceId": "LPC55S16",
+    "coreId": "cm33_core0_LPC55S16"
+  }
+}

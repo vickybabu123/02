@@ -1,0 +1,2 @@
+../board/clock_config.c:27:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:34:6:BOARD_BootClockPLL150M	56	static

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LPC55S16_Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LPC55S16_Project.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LPC55S16_Project.elf-Debug-b30dcd07d947fdc5d74b.json",
+					"name" : "LPC55S16_Project.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Debug",
+		"source" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

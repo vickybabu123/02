@@ -1,0 +1,3 @@
+../source/Brand.c:385:10:brand_set	0	static
+../source/Brand.c:399:6:brand__drug_split_screen	16	static
+../source/Brand.c:99:9:Brand_List	56	static

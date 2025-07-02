@@ -1,0 +1,6 @@
+../source/kvo_menu.c:250:9:KVO_Frame	24	static
+../source/kvo_menu.c:284:6:KVO_Opt_Frame	64	static
+../source/kvo_menu.c:348:6:KVO_cursor	64	static
+../source/kvo_menu.c:411:6:kvo_subsetting	56	static
+../source/kvo_menu.c:51:9:KVO_Screen	56	static
+../source/kvo_menu.c:477:6:KVOmodeRun	8	static

@@ -1,0 +1,13 @@
+../Menu_Setting/Device_main_scrn.c:356:6:device_sett_frame	16	static
+../Menu_Setting/Device_main_scrn.c:375:6:device_sett_Opt_Frame	80	static
+../Menu_Setting/Device_main_scrn.c:433:6:device_sett_cursor	80	static
+../Menu_Setting/Device_main_scrn.c:488:6:device_subsetting	104	static
+../Menu_Setting/Device_main_scrn.c:562:6:device_info_frame	16	static
+../Menu_Setting/Device_main_scrn.c:583:6:device_info_Opt_Frame	64	static
+../Menu_Setting/Device_main_scrn.c:634:6:about_fun	32	static
+../Menu_Setting/Device_main_scrn.c:727:6:infusion_modes_Opt_Frame	24	static
+../Menu_Setting/Device_main_scrn.c:751:6:infusion_mode_sett_Opt_Frame	56	static
+../Menu_Setting/Device_main_scrn.c:915:6:infusion_mode_sett_cursor	56	static
+../Menu_Setting/Device_main_scrn.c:796:6:infusion_sett_Screen	32	static
+../Menu_Setting/Device_main_scrn.c:952:6:Device_sett_EEPROM_write	8	static
+../Menu_Setting/Device_main_scrn.c:111:9:device_sett_Screen	88	static

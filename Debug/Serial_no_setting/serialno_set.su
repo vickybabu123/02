@@ -1,0 +1,5 @@
+../Serial_no_setting/serialno_set.c:60:6:sc_split_frame	32	static
+../Serial_no_setting/serialno_set.c:113:6:Digit_Spiliting_2	8	static
+../Serial_no_setting/serialno_set.c:168:6:serial_no_opt_Frame	56	static
+../Serial_no_setting/serialno_set.c:220:6:serialno_screen_option_scroll	64	static
+../Serial_no_setting/serialno_set.c:283:10:serialno_screen	72	static

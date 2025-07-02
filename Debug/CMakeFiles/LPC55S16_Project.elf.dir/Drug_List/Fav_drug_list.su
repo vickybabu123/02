@@ -1,0 +1,5 @@
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Drug_List/Fav_drug_list.c:41:9:favourite_func	64	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Drug_List/Fav_drug_list.c:269:9:favourite_functionality	24	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Drug_List/Fav_drug_list.c:330:6:fav_eeprom_write	24	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Drug_List/Fav_drug_list.c:381:6:fav_drug_fb_load	4	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Drug_List/Fav_drug_list.c:349:6:fav_eeprom_read	24	static

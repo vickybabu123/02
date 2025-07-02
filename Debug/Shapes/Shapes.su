@@ -1,0 +1,11 @@
+../Shapes/Shapes.c:47:11:__24_bit_to_16_bit_color	32	static
+../Shapes/Shapes.c:19:6:Rectangle	32	static
+../Shapes/Shapes.c:232:6:TFT_ST7789V_lcd_shapes	32	static
+../Shapes/Shapes.c:109:6:TFT_ST7789V_circle	40	static
+../Shapes/Shapes.c:132:6:TFT_ST7789V_circle1	48	static
+../Shapes/Shapes.c:150:6:TFT_ST7789V_circle2	40	static
+../Shapes/Shapes.c:168:6:TFT_ST7789V_circle3	40	static
+../Shapes/Shapes.c:74:6:TFT_ST7789V__rectangle_curve	56	static
+../Shapes/Shapes.c:187:6:TFT_ST7789V_lcd_drawcircle1	64	static
+../Shapes/Shapes.c:210:6:TFT_ST7789V_lcd_drawcircle1_Battery_Logo	64	static
+../Shapes/Shapes.c:256:6:footer_curve	16	static

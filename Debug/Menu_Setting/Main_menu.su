@@ -1,0 +1,8 @@
+../Menu_Setting/Main_menu.c:298:6:Menu_layout	16	static
+../Menu_Setting/Main_menu.c:342:6:Main_Menu_opt_Frame	48	static
+../Menu_Setting/Main_menu.c:374:6:Menu_cursor	56	static
+../Menu_Setting/Main_menu.c:417:6:menu_fun	56	static
+../Menu_Setting/Main_menu.c:456:6:edit_subsetting_frame	24	static
+../Menu_Setting/Main_menu.c:475:6:Rectangle_Line_function	32	static
+../Menu_Setting/Main_menu.c:316:6:Main_Menu_Frame	16	static
+../Menu_Setting/Main_menu.c:102:6:Main_Menu_Screen	56	static

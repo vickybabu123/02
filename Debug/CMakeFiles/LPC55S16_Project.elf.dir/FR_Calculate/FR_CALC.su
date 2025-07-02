@@ -1,0 +1,7 @@
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:154:7:MR_Value_TO_RPM_calculate	8	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:248:6:clear_data	0	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:263:6:RPM_to_DAC	24	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:59:6:MR_Value_calculate	40	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:124:6:RPM_to_MR_value	16	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:174:6:RAMP_UP	24	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate/FR_CALC.c:211:6:RAMP_DOWN	8	static

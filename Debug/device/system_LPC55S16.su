@@ -1,0 +1,4 @@
+../device/system_LPC55S16.c:219:17:GetOsc32KFreq	0	static
+../device/system_LPC55S16.c:289:6:SystemCoreClockUpdate	24	static
+../device/system_LPC55S16.c:390:29:SystemInitHook	0	static
+../device/system_LPC55S16.c:240:29:SystemInit	8	static

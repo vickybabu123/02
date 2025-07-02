@@ -1,0 +1,6 @@
+../source/Drug_name_search.c:525:6:frame_realtime_search_drug_option	56	static
+../source/Drug_name_search.c:565:6:search_result_drug_option_scroll	56	static
+../source/Drug_name_search.c:604:6:real_time_serach_Drug_layout	24	static
+../source/Drug_name_search.c:648:6:searched_Drug_List_layout	24	static
+../source/Drug_name_search.c:322:10:nav_search_Drug_result	56	static
+../source/Drug_name_search.c:71:9:nav_real_time_drug_search	144	static

@@ -1,0 +1,5 @@
+../source/bolus_menu_scrn.c:262:6:Bolus_Frame	24	static
+../source/bolus_menu_scrn.c:286:6:Bolus_Opt_Frame	56	static
+../source/bolus_menu_scrn.c:343:6:bolus_cursor	64	static
+../source/bolus_menu_scrn.c:409:6:bolus_subsetting	48	static
+../source/bolus_menu_scrn.c:45:9:Bolus_Screen	48	static

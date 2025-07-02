@@ -1,0 +1,6 @@
+../source/TFT_Commands.c:14:6:ST7789V_PIN_conf	0	static
+../source/TFT_Commands.c:38:6:SPI_cmd	8	static
+../source/TFT_Commands.c:50:6:SPI_data	8	static
+../source/TFT_Commands.c:253:6:TFT_ST7789V_BlockWrite	32	static
+../source/TFT_Commands.c:322:6:delay_us	0	static
+../source/TFT_Commands.c:62:6:TFT_ST7789V_init	80	static

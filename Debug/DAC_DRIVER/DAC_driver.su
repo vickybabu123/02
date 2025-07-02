@@ -1,0 +1,4 @@
+../DAC_DRIVER/DAC_driver.c:205:10:calculateADCResult	8	static
+../DAC_DRIVER/DAC_driver.c:325:6:DAC_i2c_start	0	static
+../DAC_DRIVER/DAC_driver.c:350:6:DAC_i2c_Stop	0	static
+../DAC_DRIVER/DAC_driver.c:217:10:DAC__datawrite	32	static

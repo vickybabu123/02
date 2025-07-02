@@ -1,0 +1,5 @@
+../Drug_List/Dose_mode_fun.c:54:9:Drug_fun	40	static
+../Drug_List/Dose_mode_fun.c:262:6:Dosage_cursor	40	static
+../Drug_List/Dose_mode_fun.c:302:6:Dosage_Frame	24	static
+../Drug_List/Dose_mode_fun.c:328:6:Dosage_opt_Frame	56	static
+../Drug_List/Dose_mode_fun.c:71:9:Dosage_setting	64	static

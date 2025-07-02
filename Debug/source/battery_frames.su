@@ -1,0 +1,6 @@
+../source/battery_frames.c:37:6:battery_logo	16	static
+../source/battery_frames.c:54:6:battery_level	80	static
+../source/battery_frames.c:76:6:battery_charge_lvl	80	static
+../source/battery_frames.c:99:6:battery_warning	8	static
+../source/battery_frames.c:160:6:Battery_symbol	16	static
+../source/battery_frames.c:227:6:plug_symbol	16	static

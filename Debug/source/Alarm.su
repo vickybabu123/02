@@ -1,0 +1,15 @@
+../source/Alarm.c:77:6:Alarm_screen	32	static
+../source/Alarm.c:97:6:Alarm_screen_1	32	static
+../source/Alarm.c:120:6:Error_screen	24	static
+../source/Alarm.c:344:6:Warning_screen	32	static
+../source/Alarm.c:391:6:warn_tone	0	static
+../source/Alarm.c:413:6:Notif_screen	24	static
+../source/Alarm.c:431:6:Notif_screen_1	24	static
+../source/Alarm.c:457:6:Warning_Scr_Erase	16	static
+../source/Alarm.c:480:6:Alarm_Running	152	static
+../source/Alarm.c:524:6:Alarm_war_screen	40	static
+../source/Alarm.c:141:6:alarm_string	8	static
+../source/Alarm.c:256:6:Alarm	32	static
+../source/Alarm.c:649:6:Mains_symbol	32	static
+../source/Alarm.c:567:6:Notification	24	static
+../source/Alarm.c:672:6:caution_info	24	static

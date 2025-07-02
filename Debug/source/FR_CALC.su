@@ -1,0 +1,6 @@
+../source/FR_CALC.c:123:7:MR_Value_TO_RPM_calculate	8	static
+../source/FR_CALC.c:216:6:clear_data	0	static
+../source/FR_CALC.c:231:6:RPM_to_DAC	8	static
+../source/FR_CALC.c:56:6:MR_Value_calculate	40	static
+../source/FR_CALC.c:145:6:RAMP_UP	24	static
+../source/FR_CALC.c:180:6:RAMP_DOWN	8	static

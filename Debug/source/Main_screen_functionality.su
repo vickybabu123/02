@@ -1,0 +1,7 @@
+../source/Main_screen_functionality.c:482:9:key_main_screen	24	static
+../source/Main_screen_functionality.c:884:9:key_main_screen_VTBI	24	static
+../source/Main_screen_functionality.c:1234:9:key_fun_doserate_mode	24	static
+../source/Main_screen_functionality.c:1562:6:auto_keylock	16	static
+../source/Main_screen_functionality.c:151:9:Home_screen_functionality	56	static
+../source/Main_screen_functionality.c:1603:6:Disc_failure_condition	8	static
+../source/Main_screen_functionality.c:1641:6:Calibration_error_condition	8	static

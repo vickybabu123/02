@@ -1,0 +1,6 @@
+../Sound/sound.c:53:6:buzzer_pwm_stop	0	static
+../Sound/sound.c:90:6:pwm_sta	0	static
+../Sound/sound.c:106:6:alarm_sound_tone	8	static
+../Sound/sound.c:171:6:beep_sound	8	static
+../Sound/sound.c:189:6:long_beep_sound	8	static
+../Sound/sound.c:206:6:Power_off_beep_sound	8	static

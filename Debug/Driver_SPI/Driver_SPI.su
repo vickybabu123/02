@@ -1,0 +1,2 @@
+../Driver_SPI/Driver_SPI.c:14:6:SPI5_Init	8	static
+../Driver_SPI/Driver_SPI.c:48:6:SPI_transfer	0	static

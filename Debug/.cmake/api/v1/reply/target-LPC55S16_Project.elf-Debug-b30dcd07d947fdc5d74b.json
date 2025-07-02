@@ -1,0 +1,1609 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "LPC55S16_Project.elf"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_link_options",
+			"include",
+			"ENABLE_LANGUAGE",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"C:/Users/Admin/Documents/Zephyr/mcux_sdk_main/core/tools/cmake_toolchain_files/armgcc.cmake",
+			"C:/Users/Admin/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 49,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 146,
+				"parent" : 3
+			},
+			{
+				"file" : 1,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 304,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 305,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 306,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 225,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 285,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "    -fstack-usage  -D__REDLIB__  -fstack-usage  -D__REDLIB__           -mfpu=fpv5-sp-d16 -mfloat-abi=hard     -DSDK_DEBUGCONSOLE=0 -DSDK_USE_SYSCALL_STUB=0     -DCPU_LPC55S16JBD100     -DCPU_LPC55S16JBD100_cm33     -DSDK_OS_BAREMETAL     -DSERIAL_PORT_TYPE_UART=1     -DPRINTF_FLOAT_ENABLE=1     -DSDK_OS_FREE_RTOS     -D__MCUXPRESSO     -D__USE_CMSIS     -DDEBUG     -O1     -fno-common     -fmerge-constants     -g3      -ffunction-sections -fdata-sections -ffreestanding -fno-builtin     -fstack-usage     -mcpu=cortex-m33     -mthumb "
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/Admin/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi/redlib/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Infused_Calculate"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/board"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/ADC"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Alarm"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Battery"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Bolus_Concept"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Boot_up"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Brand"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Calibration_Screen"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/DAC_DRIVER"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Dose_rate"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Driver_SPI"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Driver_ST7789V"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Drug_List"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Dynamic_Pressure"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Event_log"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Factory_Setting"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Font_style"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/FR_Calculate"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/GPIO"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/I2C"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Keypad"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Last_Infusion_clear"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Linear_Pot_Calibration"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Main_screen"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Menu_Setting"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Mode_Function"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Motor"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Occlusion"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Password"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/PINT"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/PLUNGER_ALARM"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Power_off"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Pressure_Calibration"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/PWM"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/RTC"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/RTC_DRIVER"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/SD_Calibration"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Serial_no_setting"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Shapes"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Sound"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Stepper_Motor"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Syringe_Length_Calibration"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/TFT_String"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Timer"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Used_hrs"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/VTBI"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/source"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/freertos/freertos-kernel/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/drivers"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/device"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/CMSIS"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				4,
+				6,
+				7,
+				8,
+				9,
+				11,
+				13,
+				14,
+				16,
+				24,
+				26,
+				27,
+				29,
+				31,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				47,
+				48,
+				49,
+				52,
+				53,
+				54,
+				57,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				69,
+				70,
+				72,
+				74,
+				76,
+				77,
+				79,
+				80,
+				82,
+				83,
+				84,
+				86,
+				87,
+				88,
+				89,
+				92,
+				94,
+				96,
+				98,
+				100,
+				101,
+				103,
+				104,
+				106,
+				108,
+				109,
+				110,
+				112,
+				114,
+				115,
+				117,
+				118,
+				120,
+				122,
+				125,
+				127,
+				128,
+				129,
+				132,
+				134,
+				135,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				154,
+				156,
+				159,
+				161,
+				163,
+				165,
+				166,
+				169
+			]
+		}
+	],
+	"id" : "LPC55S16_Project.elf::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fstack-usage  -D__REDLIB__  -fstack-usage  -D__REDLIB__           -mfpu=fpv5-sp-d16 -mfloat-abi=hard     -DSDK_DEBUGCONSOLE=0 -DSDK_USE_SYSCALL_STUB=0     -DCPU_LPC55S16JBD100     -DCPU_LPC55S16JBD100_cm33     -DSDK_OS_BAREMETAL     -DSERIAL_PORT_TYPE_UART=1     -DPRINTF_FLOAT_ENABLE=1     -DSDK_OS_FREE_RTOS     -D__MCUXPRESSO     -D__USE_CMSIS     -DDEBUG     -O1     -fno-common     -fmerge-constants     -g3      -ffunction-sections -fdata-sections -ffreestanding -fno-builtin     -fstack-usage     -mcpu=cortex-m33     -mthumb",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-mfpu=fpv5-sp-d16 -mfloat-abi=hard     -specs=redlib.specs     -nostdlib     -Xlinker     -Map=output.map     -Xlinker     --gc-sections     -Xlinker     -print-memory-usage     -Xlinker     --sort-section=alignment     -Xlinker     --cref     -mcpu=cortex-m33     -mthumb     -T\"D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/LPC55S16_Project_Debug.ld\"",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-Wl,--no-warn-rwx-segments",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,--start-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-lcr_c -lcr_eabihelpers -lgcc -lcr_semihost",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-Wl,--end-group",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "LPC55S16_Project.elf",
+	"nameOnDisk" : "LPC55S16_Project.elf",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				5,
+				10,
+				12,
+				15,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				25,
+				28,
+				30,
+				32,
+				39,
+				46,
+				50,
+				51,
+				55,
+				56,
+				58,
+				68,
+				71,
+				73,
+				75,
+				78,
+				81,
+				85,
+				90,
+				91,
+				93,
+				95,
+				97,
+				99,
+				102,
+				105,
+				107,
+				111,
+				113,
+				116,
+				119,
+				121,
+				123,
+				124,
+				126,
+				130,
+				131,
+				133,
+				136,
+				137,
+				139,
+				141,
+				143,
+				145,
+				147,
+				149,
+				150,
+				151,
+				152,
+				153,
+				155,
+				157,
+				158,
+				160,
+				162,
+				164,
+				167,
+				168
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				4,
+				6,
+				7,
+				8,
+				9,
+				11,
+				13,
+				14,
+				16,
+				24,
+				26,
+				27,
+				29,
+				31,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				47,
+				48,
+				49,
+				52,
+				53,
+				54,
+				57,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				69,
+				70,
+				72,
+				74,
+				76,
+				77,
+				79,
+				80,
+				82,
+				83,
+				84,
+				86,
+				87,
+				88,
+				89,
+				92,
+				94,
+				96,
+				98,
+				100,
+				101,
+				103,
+				104,
+				106,
+				108,
+				109,
+				110,
+				112,
+				114,
+				115,
+				117,
+				118,
+				120,
+				122,
+				125,
+				127,
+				128,
+				129,
+				132,
+				134,
+				135,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				154,
+				156,
+				159,
+				161,
+				163,
+				165,
+				166,
+				169
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "ADC/Driver_ADC.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ADC/Driver_ADC.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Alarm/Alarm.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Alarm/Alarm.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Battery/battery_frames.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Battery/Battery.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Battery/Battery.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Bolus_Concept/Bolus_Screen.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Bolus_Concept/bolus_menu_scrn.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Bolus_Concept/bolus_limit.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Bolus_Concept/Bolus_Header.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Bolus_Concept/Bolus_Calculate..c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Boot_up/Boot_up.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Boot_up/Boot_up.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Brand/Frame_Brand_List.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Brand/Brand.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Brand/Brand.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CMSIS/tz_context.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CMSIS/mpu_armv8.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CMSIS/core_cm33.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CMSIS/cmsis_version.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CMSIS/cmsis_gcc.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CMSIS/cmsis_compiler.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Calibration_Screen/Calibration_Screen.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Calibration_Screen/Calibration_Screen.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DAC_DRIVER/DAC_driver.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DAC_DRIVER/DAC_driver.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Dose_rate/Dose_frame.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Dose_rate/Dosage_mode.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Dose_rate/Dosage_mode.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Driver_SPI/Driver_SPI.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Driver_SPI/Driver_SPI.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Driver_ST7789V/TFT_Commands.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Driver_ST7789V/TFT_Commands.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Rec_frame.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Rec_drug_list.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/fav_frame.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Fav_drug_list.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Drug_name_search.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Drug_List/Drug_List.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Drug_List.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Drug_frame.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Drug_category.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Dose_mode_fun.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/custom_drug_list.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drug_List/Add_Drug.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Dynamic_Pressure/Dynamic_Pressure.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Dynamic_Pressure/Dynamic_pressure.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Event_log/Event_log.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Event_log/Events_log_frames.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Event_log/Events_log.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "FR_Calculate/FR_CALC.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "FR_Calculate/FR_CALC.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Factory_Setting/manu_dt_yr.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Factory_Setting/factory_menu.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Factory_Setting/factory.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Flowrate_screen/Flowrate_Screen.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Flowrate_screen/Flowrate_Screen.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Font_style/Font.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/AKAS_LOGO.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/9_Arial.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/48_Calibri.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/43_Calibri.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/36_Arial.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/35_Arial.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/20_Arial.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/14_Arial.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Font_style/12_Arial.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "GPIO/GPIO.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "GPIO/GPIO.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "I2C/I2C.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "I2C/Driver_I2C.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "I2C/Driver_I2C.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Infused_Calculate/infused_calculate.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Infused_Calculate/Infused_Calculate.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Keypad/Keypad.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Keypad/Keypad.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Last_Infusion_clear/Last_infusion.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Linear_Pot_Calibration/Linear_pot.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Linear_Pot_Calibration/Linear_pot.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Main_screen/Main_screen_functionality.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Main_screen/Main_screen.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Main_screen/Main_frame.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Menu_Setting/sys_sett_menu.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Menu_Setting/occl_menu.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Menu_Setting/Main_Menu.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Menu_Setting/Main_menu.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Menu_Setting/kvo_menu.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Menu_Setting/Device_main_scrn.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Mode_function/mode_screen.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Mode_function/modes.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Motor/Motor.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Motor/Motor.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Occlusion/Occlusion.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Occlusion/Occlusion.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Occlusion/Driver_HX711.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Occlusion/Driver_HX711.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "PINT/Driver_PINT.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "PINT/Driver_PINT.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "PLUNGER_ALARM/plunger_alarm.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "PLUNGER_ALARM/plunger_alarm.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "PLUNGER_ALARM/Data_Sample.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "PWM/PWM.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "PWM/Driver_PWM.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Password/Password_screens.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Password/Password.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Password/Password.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Power_off/Power_off.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Power_off/Power_off.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Pressure_Calibration/Pressure_calib.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "RTC/year.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "RTC/RTC.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "RTC/RTC.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "RTC_DRIVER/RTC_driver.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "RTC_DRIVER/rtc_driver.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "SD_Calibration/SD_Calib_frames.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "SD_Calibration/SD_Calib.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "SD_Calibration/SD_Calib.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Serial_no_setting/serialno_set.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Shapes/Symbol.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Shapes/Symbol.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Shapes/Shapes.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Shapes/Shapes.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Shapes/Color.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Sound/sound.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Sound/sound.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Stepper_Motor/STEPPER.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Stepper_Motor/STEPPER.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Syringe_Length_Calibration/SYR_length_frame.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Syringe_Length_Calibration/SYR_length_calib.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Syringe_Length_Calibration/Syringe_calib_header.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "TFT_String/TFT_String.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TFT_String/TFT_String.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Timer/Driver_Timer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Timer/Driver_Timer.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Used_hrs/Used_hrs.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Used_hrs/Consumed_hrs.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "VTBI/Target_fun.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "VTBI/Target_fun.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "board/pin_mux.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "board/pin_mux.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "board/peripherals.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "board/peripherals.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "board/clock_config.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "board/clock_config.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "board/board.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "board/board.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "device/system_LPC55S16.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "device/system_LPC55S16.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "device/LPC55S16_features.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "device/LPC55S16.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "device/fsl_device_registers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_rtc.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_reset.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/fsl_reset.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_power.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/fsl_power.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_inputmux_connections.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_inputmux.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/fsl_inputmux.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_common_arm.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/fsl_common_arm.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_common.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/fsl_common.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "drivers/fsl_clock.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/fsl_clock.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/main.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "source/Linear_Header.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "source/HEADER.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "startup/startup_lpc55s16.c",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

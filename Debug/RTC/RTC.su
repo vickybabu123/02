@@ -1,0 +1,7 @@
+../RTC/RTC.c:91:10:getRTCDateTime	32	static
+../RTC/RTC.c:363:6:option_footer_frame	16	static
+../RTC/RTC.c:376:6:RTC_frame	16	static
+../RTC/RTC.c:400:6:RTC_Opt_Frame	72	static
+../RTC/RTC.c:491:6:RTC_cursor	88	static
+../RTC/RTC.c:581:6:format_subsetting	56	static
+../RTC/RTC.c:119:6:RTC_screen	64	static

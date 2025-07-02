@@ -1,0 +1,5 @@
+../Battery/Battery.c:69:10:ADC_bat_status	12	static
+../Battery/Battery.c:127:6:batt_pin_init	0	static
+../Battery/Battery.c:153:6:batt_stat	0	static
+../Battery/Battery.c:241:6:power_status	0	static
+../Battery/Battery.c:295:6:battery_status	8	static

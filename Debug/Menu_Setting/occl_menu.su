@@ -1,0 +1,5 @@
+../Menu_Setting/occl_menu.c:296:6:Occl_Frame	16	static
+../Menu_Setting/occl_menu.c:321:6:Occl_Opt_Frame	64	static
+../Menu_Setting/occl_menu.c:376:6:Occl_cursor	72	static
+../Menu_Setting/occl_menu.c:443:6:occl_subsetting	72	static
+../Menu_Setting/occl_menu.c:62:9:Occlusion_setting	64	static

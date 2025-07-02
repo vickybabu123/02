@@ -1,0 +1,14 @@
+../source/Driver_Timer.c:117:6:Timer0_Init	0	static
+../source/Driver_Timer.c:149:6:Timer1_Init	0	static
+../source/Driver_Timer.c:181:6:Timer2_Init	0	static
+../source/Driver_Timer.c:217:6:Timer3_Init	0	static
+../source/Driver_Timer.c:249:6:Timer_disable	8	static
+../source/Driver_Timer.c:264:6:CTIMER0_IRQHandler	0	static
+../source/Driver_Timer.c:282:6:CTIMER1_IRQHandler	0	static
+../source/Driver_Timer.c:376:6:CTIMER2_IRQHandler	8	static
+../source/Driver_Timer.c:508:6:_100_us_fun	8	static
+../source/Driver_Timer.c:563:6:_1_ms_fun	8	static
+../source/Driver_Timer.c:671:6:_10_ms_fun	0	static
+../source/Driver_Timer.c:694:6:_100_ms_fun	0	static
+../source/Driver_Timer.c:753:6:_1_sec_fun	0	static
+../source/Driver_Timer.c:407:6:CTIMER3_IRQHandler	8	static

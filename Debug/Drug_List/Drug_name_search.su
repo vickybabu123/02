@@ -1,0 +1,6 @@
+../Drug_List/Drug_name_search.c:541:6:frame_realtime_search_drug_option	56	static
+../Drug_List/Drug_name_search.c:581:6:search_result_drug_option_scroll	56	static
+../Drug_List/Drug_name_search.c:620:6:Drug_Search_Layout	24	static
+../Drug_List/Drug_name_search.c:665:6:searched_Drug_List_layout	24	static
+../Drug_List/Drug_name_search.c:329:10:nav_search_Drug_result	64	static
+../Drug_List/Drug_name_search.c:72:9:Drug_name_search	144	static

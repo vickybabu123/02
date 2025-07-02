@@ -1,0 +1,4 @@
+../source/I2C.c:54:6:i2c_Init	8	static
+../source/I2C.c:106:6:FLEXCOMM4_IRQHandler	8	static
+../source/I2C.c:191:10:EEPROM_datawrite	64	static
+../source/I2C.c:311:10:EEPROM_dataread	64	static

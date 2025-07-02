@@ -1,0 +1,9 @@
+../Factory_Setting/factory_menu.c:71:6:factory_layout	16	static
+../Factory_Setting/factory_menu.c:408:6:factory_Frame	16	static
+../Factory_Setting/factory_menu.c:432:6:factory_cursor	64	static
+../Factory_Setting/factory_menu.c:546:6:factory_Opt_Frame	64	static
+../Factory_Setting/factory_menu.c:656:6:factory_subsetting	56	static
+../Factory_Setting/factory_menu.c:759:6:used_hrs_info_frame	16	static
+../Factory_Setting/factory_menu.c:782:6:used_hrs_info_Opt_Frame	64	static
+../Factory_Setting/factory_menu.c:708:6:used_hrs	24	static
+../Factory_Setting/factory_menu.c:91:6:factory_setting	72	static

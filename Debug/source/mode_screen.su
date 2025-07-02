@@ -1,0 +1,7 @@
+../source/mode_screen.c:49:6:infusion_mode_boot	80	static
+../source/mode_screen.c:84:6:infusion_mode_boot_cursor	64	static
+../source/mode_screen.c:123:9:infusion_mode_screen	32	static
+../source/mode_screen.c:307:6:previous_data_frame	24	static
+../source/mode_screen.c:252:10:previous_data	16	static
+../source/mode_screen.c:339:7:write_current_data	24	static
+../source/mode_screen.c:379:7:read_last_data	24	static

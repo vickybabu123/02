@@ -1,0 +1,4 @@
+../source/fav_frame.c:30:6:favourite_Frame	24	static
+../source/fav_frame.c:57:6:favourite_opt_Frame	56	static
+../source/fav_frame.c:104:6:favourite_cursor	64	static
+../source/fav_frame.c:159:6:fav_edit_subsetting_frame	24	static

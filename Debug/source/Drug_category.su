@@ -1,0 +1,8 @@
+../source/Drug_category.c:249:6:category_Frame	16	static
+../source/Drug_category.c:273:6:category_opt_Frame	56	static
+../source/Drug_category.c:311:6:category_cursor	40	static
+../source/Drug_category.c:539:6:category_list_Frame	24	static
+../source/Drug_category.c:561:6:category_opt_list_Frame	72	static
+../source/Drug_category.c:612:6:category_list_cursor	64	static
+../source/Drug_category.c:350:9:category_list_fun	64	static
+../source/Drug_category.c:67:9:category_screen	48	static

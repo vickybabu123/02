@@ -1,0 +1,9 @@
+../source/Dosage_mode.c:148:9:dose_conc_setting	8	static
+../source/Dosage_mode.c:166:9:dose_conc_setting_ml	8	static
+../source/Dosage_mode.c:180:9:pat_weight_fun	8	static
+../source/Dosage_mode.c:365:9:dosage_fun	8	static
+../source/Dosage_mode.c:194:9:drug_unit_settings	48	static
+../source/Dosage_mode.c:381:9:dose_unit_Screen	40	static
+../source/Dosage_mode.c:504:9:overview_screen	48	static
+../source/Dosage_mode.c:80:9:dose_rate_mode	56	static
+../source/Dosage_mode.c:676:6:dosage_range_limit_fun	32	static

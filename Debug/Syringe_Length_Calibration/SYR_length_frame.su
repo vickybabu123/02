@@ -1,0 +1,7 @@
+../Syringe_Length_Calibration/SYR_length_frame.c:46:6:frame_syr_len_and_plunger_adc_main	24	static
+../Syringe_Length_Calibration/SYR_length_frame.c:89:6:frame_syringe_size_glow	88	static
+../Syringe_Length_Calibration/SYR_length_frame.c:153:6:swap_sysize_glow	80	static
+../Syringe_Length_Calibration/SYR_length_frame.c:225:6:syringe_length_and_collar_main_screen	104	static
+../Syringe_Length_Calibration/SYR_length_frame.c:325:6:plunger_adc_screen	24	static
+../Syringe_Length_Calibration/SYR_length_frame.c:386:6:warning_screen_ADC	24	static
+../Syringe_Length_Calibration/SYR_length_frame.c:426:6:warning_calibrated_screen	24	static

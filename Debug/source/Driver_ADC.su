@@ -1,0 +1,6 @@
+../source/Driver_ADC.c:42:6:CLOCK_SetDiv	0	static
+../source/Driver_ADC.c:103:6:ADC_cmd_config	0	static
+../source/Driver_ADC.c:60:6:LPADC_Init	8	static
+../source/Driver_ADC.c:152:6:ADC_trig_config	0	static
+../source/Driver_ADC.c:186:10:ADC_conv	0	static
+../source/Driver_ADC.c:23:11:ADC_read	8	static

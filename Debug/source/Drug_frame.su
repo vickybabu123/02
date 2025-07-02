@@ -1,0 +1,4 @@
+../source/Drug_frame.c:182:6:Drug_List_layout	24	static
+../source/Drug_frame.c:208:6:Drug_search_List_layout	32	static
+../source/Drug_frame.c:243:6:drug_List_option	64	static
+../source/Drug_frame.c:295:6:drug_list_option_scroll	64	static

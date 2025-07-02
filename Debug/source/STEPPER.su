@@ -1,0 +1,5 @@
+../source/STEPPER.c:16:6:DRV8428_Init	0	static
+../source/STEPPER.c:44:6:DRV8428_ENABLE	0	static
+../source/STEPPER.c:59:6:DRV8428_DISABLE	0	static
+../source/STEPPER.c:74:6:stepper_Forward	8	static
+../source/STEPPER.c:88:6:stepper_Reverse	0	static

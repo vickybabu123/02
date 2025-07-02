@@ -1,0 +1,13 @@
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:84:6:Screen_frame	16	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:99:6:Footer_datas	16	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:124:6:FR_split_frame	32	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:150:6:Digit_Spiliting	48	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:212:6:flowrate_option_frame	40	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:294:6:flowrate_option_scroll	64	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:771:6:FR_split_frame_DD	32	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:797:6:Digit_Spiliting_DD	56	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:856:6:flowrate_option_frame_DD	72	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:939:6:flowrate_option_scroll_DD	64	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:1392:6:Left_Right_Indi	24	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:354:10:Flow_rate_screen	152	static
+D:/01_Vignesh Babu R/04_Workouts/Neon-S/2025/04_APR/24-04-2025/Neon_S_V_2.59_Final_review_verification/Flowrate_screen/Flowrate_Screen.c:1001:10:Double_Decimal_FR_screen	72	static
